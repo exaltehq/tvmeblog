@@ -8,14 +8,14 @@ const config: GatsbyConfig = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-minimal-blog/gatsby-config.mjs
-    siteTitle: `Geanny's Blog`,
-    siteTitleAlt: `Geanny's Blog`,
-    siteHeadline: `Geanny's Blog`,
+    siteTitle: `tavarezme`,
+    siteTitleAlt: `tavarezme`,
+    siteHeadline: `tavarezme`,
     siteUrl: `https://tavarez.me`,
     siteDescription: `Welcome to my blog, where I occasionally post about what's on my mind. Topics include business building, health, wealth building, and random cool pictures taken from my smartphone.`,
     siteImage: `/banner.jpg`,
     siteLanguage: `en`,
-    author: `@lekoarts_de`,
+    author: `@tavarezme`,
   },
   trailingSlash: `always`,
   plugins: [
