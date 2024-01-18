@@ -39,8 +39,8 @@ const config: GatsbyConfig = {
             url: `https://twitter.com/tavarezme`,
           },
           {
-            name: `Homepage`,
-            url: `https://www.lekoarts.de?utm_source=minimal-blog&utm_medium=Starter`,
+            name: `IG`,
+            url: `https://www.instagram.com/tavarezme/`,
           },
         ],
       },
